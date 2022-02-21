@@ -32,6 +32,3 @@
     * [OracleLinux安装](usage/oracle-linux.md)
     * [一些bug的解决办法](usage/bug.md)
     * [手机垃圾清理](usage/rubbish.md)
-* [vivion](vivion.md)
-    * [动画](vivion/vivion.md)
-
