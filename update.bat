@@ -16,8 +16,8 @@ call git commit -m "update `date` "
 echo git push origin master
 call git push origin master
 
-echo xcopy ./note/_book/* ../stitchflute.github.io/ /e
-call xcopy ./note/_book/* ../stitchflute.github.io/ /e
+echo xcopy note\_book\* ..\stitchflute.github.io\ /e
+call xcopy note/_book\* ..\stitchflute.github.io\ /e
 
 echo cd ../stitchflute.github.io
 call cd ../stitchflute.github.io
