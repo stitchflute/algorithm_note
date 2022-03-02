@@ -11,7 +11,7 @@ echo git add .
 call git add .
 
 echo git commit 
-call git commit -m "update `date` "
+call git commit -m "update %date% "
 
 echo git push origin master
 call git push origin master
@@ -26,7 +26,7 @@ echo git add .
 call git add .
 
 echo git commit
-call git commit -m "update `date` "
+call git commit -m "update %date% "
 
 echo git push origin gh-pages
 call git push origin gh-pages
